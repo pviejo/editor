@@ -128,7 +128,7 @@
     "@storybook/addon-links": "^5.3.19",
     "@storybook/addon-storysource": "^5.3.19",
     "@storybook/addons": "^5.3.19",
-    "@storybook/react": "^5.3.19",
+    "@storybook/react": "^4.0.2",
     "@storybook/theming": "^5.3.19",
     "@wdio/cli": "^6.1.14",
     "@wdio/local-runner": "^6.1.14",
@@ -171,6 +171,7 @@
     "webpack-bundle-analyzer": "^3.6.0",
     "webpack-cleanup-plugin": "^0.5.1",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
+    "webpack-dev-server": "^3.10.3",
+    "yarn-audit-fix": "^3.3.0"
   }
 }
